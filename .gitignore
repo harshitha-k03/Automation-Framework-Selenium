@@ -1,0 +1,7 @@
+Maven
+
+target/ *.log *.iml .idea/
+
+Test outputs
+
+reports/ test-recordings/ allure-results/
