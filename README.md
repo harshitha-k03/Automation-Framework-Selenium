@@ -50,7 +50,7 @@ Setup
 
 Clone the Repository:
 
-git clone https://github.com/your-username/SeleniumAutomationFramework.git
+git clone https://github.com/harshitha-k03/SeleniumAutomationFramework.git
 
 
 
